@@ -1,0 +1,177 @@
+﻿departamento,municipio,mineral,ecosistemas potencialmente afectados ,tipo de afectacion,metodo de extraccion
+cundinamarca,bogotá,arenas y gravas,páramo,Movimiento en masa,subterránea y cielo abierto
+cundinamarca,cogua,arcilla,páramo,Movimiento en masa,subterránea y cielo abierto
+cundinamarca,soacha,arenas y gravas,páramo,Movimiento en masa,subterránea y cielo abierto
+cundinamarca,caqueza,arenas y gravas,bosques andinos,Movimiento en masa,subterránea y cielo abierto
+cundinamarca,ubala,arenas y gravas,bosques andinos,Movimiento en masa,subterránea y cielo abierto
+cundinamarca,gachela,arenas y gravas,bosques andinos,Movimiento en masa,subterránea y cielo abierto
+valle del cauca,buenaventura,oro,bosques andinos,Sedimentacion,aluvión y subterránea
+valle del cauca,yumbo,carbón,bosques andinos,Movimiento en masa y Sedimentación,subterránea
+valle del cauca,yumbo,calizas,bosques andinos,Movimiento en masa y Sedimentación,subterránea
+valle del cauca,jamundi,carbón,,Sedimentación,subterránea
+valle del cauca,la victoria,arcilla,,Sedimentación,subterránea y cielo abierto
+valle del cauca,la victoria,arenas y gravas,,Sedimentación,subterránea y cielo abierto
+valle del cauca,obando,recebos,,Sedimentación,subterránea
+valle del cauca,cali,carbón,,Sedimentación,subterránea
+valle del cauca,dagua,arenas y gravas,bosques andinos,Movimiento en masa,subterránea
+valle del cauca,palmira,oro,páramo,Movimiento en masa,aluvión y subterránea
+nariño,gauchavéz,metales preciosos,,Movimiento en masa,aluvión y subterránea
+nariño,la llanada,metales preciosos,bosques andinos y páramo,Movimiento en masa,aluvión y subterránea
+nariño,leiva,metales preciosos,,Sedimentación,aluvión y subterránea
+nariño,pasto,recebos,,Sedimentación,subterránea y cielo abierto
+nariño,piedracha,metales preciosos,,Sedimentación,aluvión y subterránea
+nariño,potosí,metales preciosos,,Sedimentación,aluvión y subterránea
+nariño,barbacoas,metales preciosos,,Sedimentación,aluvión y subterránea
+nariño,payán,metales preciosos,,Sedimentación,aluvión y subterránea
+nariño,cumbitará,oro ,,Sedimentación,aluvión y subterránea
+nariño,cumbitará,plata,,Sedimentación,aluvión y subterránea
+córdoba,monteria,arenas y gravas,bosques de galería y riparios,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,san carlos,arenas y gravas ,ecosistemas secos,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,san carlos,oro,ecosistemas secos,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,san carlos,carbón,ecosistemas secos,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,lórica,arenas y gravas,bosques de galería y riparios,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,ciénaga de oro,arenas y gravas,bosques de galería y riparios,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,san andres de sotavento,arenas y gravas,bosques de galería y riparios,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,chimá,arenas y gravas,bosques de galería y riparios,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,san bernardino,arenas y gravas,,Sedimentación,aluvión y cielo abierto
+córdoba,valencia,arenas y gravas,ecosistemas secos,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,puerto libertador,arenas y gravas,bosques andinos y selvas húmedas,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,puerto libertador,oro,bosques andinos y selvas húmedas,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,puerto libertador,carbón,bosques andinos y selvas húmedas,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,planeta rica,arenas y gravas ,ecosistemas secos,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,planeta rica,oro,ecosistemas secos,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+córdoba,sahagún,arenas y gravas,bosques de galería y riparios,Movimiento en masa ,aluvión y cielo abierto
+córdoba,canalete,arenas y gravas,,Movimiento en masa ,aluvión y cielo abierto
+córdoba,ayapel,oro,,Sedimentación,aluvión y cielo abierto
+córdoba,ayapel,arenas y gravas,,Sedimentación,aluvión y cielo abierto
+caldas,supía,oro,bosques andinos,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,supía,arenas y gravas,bosques andinos,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,aguadas,arenas y gravas,bosques andinos,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,chichiná,arcilla y recebos,bosques andinos,Movimiento en masa,aluvión y subterránea
+caldas,manizales,arenas y gravas,páramo,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,manizales,oro,páramo,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,pacora,arenas y gravas,,Sedimentación,aluvión y subterránea
+caldas,palestina,arenas y gravas,,Sedimentación,aluvión y subterránea
+caldas,anserma,arenas y gravas,bosques andinos,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,marmato,oro,bosques andinos,Sedimentación,aluvión y subterránea
+caldas,riosucio,oro,,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,viterbo,arenas y gravas,,Sedimentación,aluvión y subterránea
+caldas,aranzazu,arenas y gravas,,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,salamina,arenas y gravas,,Sedimentación,aluvión y subterránea
+caldas,villamaria,oro,,Sedimentación,aluvión y subterránea
+caldas,la dorada,arenas y gravas,,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,manzanares,arenas y gravas,,Sedimentación,aluvión y subterránea
+caldas,marquetalia,arenas y gravas,bosques andinos,Movimiento en masa y Sedimentación,aluvión y subterránea
+caldas,samaná,arenas y gravas,,Sedimentación,aluvión y subterránea
+caldas,victoria,oro,ecosistemas secos y selvas húmedas ,Sedimentación,aluvión y subterránea
+la guajira,riohacha,carbón,,Sedimentación,cielo abierto
+atlántico,luruaco,calizas,,Movimiento en masa,cielo abierto
+atlántico,puerto colombia,calizas,,Movimiento en masa,cielo abierto
+atlántico,barranquilla,calizas,,Movimiento en masa,cielo abierto
+meta,villavicencio,arenas y gravas,bosques andinos,Movimiento en masa,
+meta,cubarral,calizas,bosques andinos y selvas húmedas,Movimiento en masa,
+meta,san martín,arenas y gravas,selvas húmedas y sabanas y afloramientos rocosos,Movimiento en masa,
+santander,vetas,oro,,Sedimentación,subterránea
+santander,sabana de torres,arenas y gravas,bosques andinos,Sedimentación,subterránea y cielo abierto
+santander,los santos,yeso,bosques andinos,Movimiento en masa y Sedimentación,subterránea y cielo abierto
+santander,los santos,barita,bosques andinos,Movimiento en masa y Sedimentación,subterránea y cielo abierto
+santander,los santos,marmol,bosques andinos,Movimiento en masa y Sedimentación,subterránea y cielo abierto
+santander,curiti,calizas,bosques andinos,Movimiento en masa y Sedimentación,subterránea y cielo abierto
+santander,sardinata,roca fosfórica,,Movimiento en masa y Sedimentación,subterránea y cielo abierto
+santander,catatumbo,carbón,,Movimiento en masa y Sedimentación,Subterránea
+santander,mutiscua,calizas,,Sedimentación,subterránea y cielo abierto
+santander,mutiscua,marmol,,Sedimentación,subterránea y cielo abierto
+santander,socorro,calizas,,Movimiento en masa,subterránea y cielo abierto
+Antioquía,bello,dunita,,Movimiento en masa,aluvión y cielo abierto
+cauca,timbiqui,oro,,sedimentación,aluvión y subterránea
+cauca,bolivar,arenas y gravas ,,sedimentación,aluvión y subterránea
+cauca,bolivar,oro,,sedimentación,aluvión y subterránea
+cauca,tambo,oro ,,sedimentación,aluvión y subterránea
+cauca,tambo,carbón,,sedimentación,aluvión y subterránea
+cauca,tambo,arenas y gravas,,sedimentación,aluvión y subterránea
+cauca,tambo,recebos,,sedimentación,aluvión y subterránea
+cauca,popayán,arenas y gravas,,sedimentación,aluvión y subterránea
+cauca,popayán,recebos,bosques andinos y páramo,sedimentación,aluvión y subterránea
+cauca,purace-coconuco,arenas y gravas,,sedimentación,aluvión y subterránea
+cauca,purace-coconuco,azufre,,sedimentación,aluvión y subterránea
+cauca,buenos aires,carbón,,sedimentación,aluvión y subterránea
+cauca,caloto,arenas y gravas,,sedimentación,aluvión y subterránea
+cauca,caloto,recebos,,sedimentación,aluvión y subterránea
+cauca,puerto tejada,arenas y gravas,,sedimentación,aluvión y subterránea
+cauca,santander de quilichao,arenas y gravas,,sedimentación,aluvión y subterránea
+cauca,santander de quilichao,caolinita,,sedimentación,aluvión y subterránea
+cauca,lópez,oro,,sedimentación,aluvión y subterránea
+cauca,patía,oro,,sedimentación,aluvión y subterránea
+cauca,la sierra,oro,,sedimentación,aluvión y subterránea
+cauca,puracé,arenas y gravas,,sedimentación,aluvión y subterránea
+cauca,puracé,azufre,,sedimentación,aluvión y subterránea
+cauca,puracé,recebos,,sedimentación,aluvión y subterránea
+chocó,condotó,oro,,sedimentación,aluvión y subterránea
+chocó,istmina,oro,,sedimentación,aluvión y subterránea
+chocó,istmina,plata,,sedimentación,aluvión y subterránea
+chocó,lloró,oro,,sedimentación,aluvión y subterránea
+chocó,lloró,plata,,sedimentación,aluvión y subterránea
+chocó,nóvita,oro,,sedimentación,aluvión y subterránea
+chocó,nóvita,plata,,sedimentación,aluvión y subterránea
+chocó,quibdó,oro,,sedimentación,aluvión y subterránea
+chocó,quibdó,plata,,sedimentación,aluvión y subterránea
+chocó,bagado,oro,,sedimentación,aluvión y subterránea
+chocó,el carmen,oro,,sedimentación,aluvión y subterránea
+chocó,santa rita,oro,,sedimentación,aluvión y subterránea
+chocó,tadó,oro,,sedimentación,aluvión y subterránea
+chocó,san josé del palmar,oro,,sedimentación,aluvión y subterránea
+chocó,bojayá,oro,,sedimentación,aluvión y subterránea
+chocó,sipí,oro,,sedimentación,aluvión y subterránea
+chocó,san juan,oro,,sedimentación,aluvión y subterránea
+chocó,certegui,oro,,sedimentación,aluvión y subterránea
+chocó,el cantón de san pablo,oro,,sedimentación,aluvión y subterránea
+chocó,palmadó,oro,,sedimentación,aluvión y subterránea
+chocó,medio baudo,oro,,sedimentación,aluvión y subterránea
+chocó,atrato,oro,,sedimentación,aluvión y subterránea
+chocó,unión panamericana,oro,,sedimentación,aluvión y subterránea
+chocó,beté,oro,,sedimentación,aluvión y subterránea
+chocó,el litoral de san juan,oro,,sedimentación,aluvión y subterránea
+chocó,pizarro,oro,,sedimentación,aluvión y subterránea
+chocó,pie de pató,oro,,sedimentación,aluvión y subterránea
+chocó,nuquí,oro,,sedimentación,aluvión y subterránea
+chocó,bahía solano,oro,,sedimentación,aluvión y subterránea
+chocó,carmen del darien,oro,,sedimentación,aluvión y subterránea
+chocó,rio sucio,oro,ecosistemas secos y selvas húmedas,sedimentación,aluvión y subterránea
+chocó,jurado,oro,,sedimentación,aluvión y subterránea
+chocó,unguia,oro,,sedimentación,aluvión y subterránea
+chocó,acandí,oro,,sedimentación,aluvión y subterránea
+quindío,genova,arenas y gravas,,sedimentación,aluvión y cielo abierto
+quindío,calarca,recebos,,Movimiento en masa y Sedimentación,aluvión y cielo abierto
+quindío,pijao,arenas y gravas,,sedimentación,aluvión y cielo abierto
+quindío,salento,arenas y gravas,,sedimentación,aluvión y cielo abierto
+risaralda,quinchia,oro,,sedimentación,aluvión y subterránea
+risaralda,quinchia,recebos,,sedimentación,aluvión y cielo abierto
+risaralda,quinchia,arcilla,,sedimentación,aluvión y cielo abierto
+risaralda,mistrató,oro,,sedimentación,aluvión y subterránea
+risaralda,mistrató,arenas y gravas,,sedimentación,aluvión y cielo abierto
+risaralda,guatica,recebos,,sedimentación,aluvión y cielo abierto
+risaralda,pueblo rico,recebos,,sedimentación,aluvión y cielo abierto
+risaralda,apia,arenas y gravas,,sedimentación,aluvión y cielo abierto
+risaralda,santuario,recebos,,sedimentación,aluvión y cielo abierto
+risaralda,santuario,arenas y gravas,,sedimentación,aluvión y cielo abierto
+risaralda,la virginia,arenas y gravas,,sedimentación,aluvión y cielo abierto
+risaralda,balboa,recebos,,sedimentación,aluvión y cielo abierto
+risaralda,pereira,recebos,,sedimentación,aluvión y cielo abierto
+risaralda,pereira,arenas y gravas,,sedimentación,aluvión y cielo abierto
+risaralda,dos quebradas,arenas y gravas,,sedimentación,aluvión y cielo abierto
+risaralda,santa rosa del cabal,recebos,,sedimentación,aluvión y cielo abierto
+risaralda,santa rosa del cabal,arenas y gravas,,sedimentación,aluvión y cielo abierto
+tolima,carmen de apicalá,arenas y gravas,,sedimentación,aluvión y cielo abierto
+tolima,casablanca,materiales preciosos,,sedimentación,aluvión y subterránea
+tolima,coello,arenas y gravas,,sedimentación,aluvión y cielo abierto
+tolima,ibagué,arenas y gravas,,sedimentación,aluvión y cielo abierto
+tolima,rovirá,arenas y gravas,,sedimentación,aluvión y cielo abierto
+tolima,san luis,arenas y gravas,,sedimentación,aluvión y cielo abierto
+tolima,coyaima,materiales preciosos,,sedimentación,aluvión y subterránea
+tolima,chaparral,materiales preciosos,,sedimentación,aluvión y subterránea
+tolima,tolima,materiales preciosos,,sedimentación,aluvión y subterránea
+tolima,ronsesvalles,materiales preciosos,,sedimentación,aluvión y subterránea
+tolima,saldaña,materiales preciosos,,sedimentación,aluvión y subterránea
+tolima,villahermosa,materiales preciosos,,sedimentación,aluvión y subterránea
+magdalena,ciénaga,arenas y gravas,,Movimiento en masa y Sedimentación,aluvión
+magdalena,fundación,materiales preciosos,,Movimiento en masa y Sedimentación,aluvión y subterránea
